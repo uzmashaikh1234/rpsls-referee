@@ -12,7 +12,7 @@ public class Referee {
         {"scissors", "lizard",   "decapitates"},
         {"lizard",   "paper",    "eats"},
         {"paper",    "spock",    "disproves"},
-        {"rock", "spock", "vaporizes"},
+        {"spock", "rock", "vaporizes"},
         {"rock",     "scissors", "crushes"}
     };
 
